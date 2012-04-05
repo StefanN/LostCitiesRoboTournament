@@ -1,0 +1,11 @@
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.dll
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.xml
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Funforce2007\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.pdb

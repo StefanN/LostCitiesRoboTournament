@@ -1,0 +1,45 @@
+C:\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.pdb

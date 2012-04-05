@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+..\..\Bots\FunForce.LostCities.MyBot.dll
+..\..\Bots\FunForce.LostCities.MyBot.pdb
+bin\Debug\FunForce.LostCities.Facade.Interface.dll
+bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+bin\Debug\FunForce.LostCities.MyBot.dll
+bin\Debug\FunForce.LostCities.MyBot.pdb
+obj\Debug\FunForce.LostCities.MyBot.dll
+obj\Debug\FunForce.LostCities.MyBot.pdb

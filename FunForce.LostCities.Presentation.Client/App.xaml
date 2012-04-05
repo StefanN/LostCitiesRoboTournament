@@ -1,0 +1,20 @@
+﻿<Application x:Class="FunForce.LostCities.MatchPlay.WPFPresentation.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="BordScherm.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Kleuren/Color.xaml"/>
+                <ResourceDictionary Source="Styles/Style.xaml"/>
+                <ResourceDictionary Source="Views/StatusView.xaml"/>
+                <ResourceDictionary Source="Views/KaartView.xaml"/>
+                <ResourceDictionary Source="Views/HandView.xaml"/>
+                <ResourceDictionary Source="Views/ExpeditieView.xaml"/>
+                <ResourceDictionary Source="Views/AflegStapelView.xaml"/>
+                <ResourceDictionary Source="Views/TrekStapelView.xaml"/>
+                <ResourceDictionary Source="Views/LaatsteBeurtView.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

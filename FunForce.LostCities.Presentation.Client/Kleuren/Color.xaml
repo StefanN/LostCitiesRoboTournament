@@ -1,0 +1,52 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!--Bord kleuren-->
+    <Color x:Key="BordAchtergrondKleur">DarkKhaki</Color>
+
+    <!--Tegenstander selectie-->
+    <Color x:Key="TegenstanderSelectieRandKleur">Khaki</Color>
+    
+    <!-- Titel -->
+    <Color x:Key="TitelRandKleur">Khaki</Color>
+    <Color x:Key="TitelFontKleur">Khaki</Color>
+    
+    <!-- Speler -->
+    <Color x:Key="SpelerAchtergrondKleur">Khaki</Color>
+
+    <!-- SpelKaarten -->
+    <Color x:Key="SpelKaartenAchtergrondKleur">Khaki</Color>
+
+    <!--Kaart kleuren-->
+    <Color x:Key="KaartFontKleur">Black</Color>
+
+    <!--AflegStapel kleuren-->
+    <Color x:Key="AflegStapelFontKleur">Black</Color>
+
+    <!--LaatsteBeurt kleuren-->
+    <Color x:Key="LaatsteBeurtAchtergrondKleur">DarkKhaki</Color>
+    <Color x:Key="LaatsteBeurtRandKleur">DarkKhaki</Color>
+    <Color x:Key="LaatsteBeurtFontKleur">Black</Color>
+    <Color x:Key="LaatsteBeurtMeldingFontKleur">Red</Color>
+
+    <!--Hand kleuren-->
+    <Color x:Key="HandAchtergrondKleur">DarkKhaki</Color>
+    <Color x:Key="HandRandKleur">DarkKhaki</Color>
+
+    <!--Status kleuren-->
+    <Color x:Key="StatusAchtergrondKleur">DarkKhaki</Color>
+    <Color x:Key="StatusRandKleur">DarkKhaki</Color>
+    <Color x:Key="StatusFontKleur">Black</Color>
+
+    <!--TrekStapel kleuren-->
+    <Color x:Key="TrekStapelAchtergrondKleur">DarkKhaki</Color>
+    <Color x:Key="TrekStapelRandKleur">DarkKhaki</Color>
+    <Color x:Key="TrekStapelFontKleur">Black</Color>
+
+    <!--Expeditie kleuren-->
+    <Color x:Key="ExpeditieFontKleur">Black</Color>
+
+    <!--Buttn kleuren-->
+    <Color x:Key="ButtonAchtergrondLichtKleur">Khaki</Color>
+    <Color x:Key="ButtonAchtergrondDonkerKleur">DarkKhaki</Color>
+</ResourceDictionary>

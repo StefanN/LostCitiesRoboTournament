@@ -1,0 +1,126 @@
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Bord.baml
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Bord.g.cs
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.g.cs
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.cache
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.g.resources
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.Properties.Resources.resources
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.csproj.GenerateResource.Cache
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.lref
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Templates\Kaart.baml
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.baml
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Templates\Hand.baml
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Templates\Status.baml
+C:\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Templates\Expeditie.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.g.cs
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.lref
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.g.resources
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.Properties.Resources.resources
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.csproj.GenerateResource.Cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MyBot.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MyBot.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe.config
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\AflegStapelView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\KaartView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\LaatsteBeurtView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Styles\Style.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\ExpeditieView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\HandView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\StatusView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\TrekStapelView.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Kleuren\Color.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\BordScherm.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\BordScherm.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe.config
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MyBot.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MyBot.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\BordScherm.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Kleuren\Color.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Styles\Style.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\BordScherm.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.cache
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.lref
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\AflegStapelView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\ExpeditieView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\HandView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\KaartView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\LaatsteBeurtView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\StatusView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\TrekStapelView.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.g.resources
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.Properties.Resources.resources
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe.config
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.exe
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MyBot.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.MyBot.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\BordScherm.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Kleuren\Color.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Styles\Style.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\BordScherm.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\App.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation_MarkupCompile.lref
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\AflegStapelView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\ExpeditieView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\HandView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\KaartView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\LaatsteBeurtView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\StatusView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\Views\TrekStapelView.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.g.resources
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\FunForce.LostCities.MatchPlay.WPFPresentation.Properties.Resources.resources
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.MatchPlay.WPFPresentation\obj\Debug\GenerateResource-ResGen.write.1.tlog

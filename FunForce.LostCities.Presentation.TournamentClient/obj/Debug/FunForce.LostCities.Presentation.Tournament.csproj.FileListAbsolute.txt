@@ -1,0 +1,11 @@
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\GelProgressBar.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.lref

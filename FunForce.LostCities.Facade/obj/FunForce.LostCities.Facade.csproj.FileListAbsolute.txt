@@ -1,0 +1,9 @@
+C:\Funforce2007\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce2007\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade\obj\Debug\FunForce.LostCities.Facade.pdb

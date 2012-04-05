@@ -1,0 +1,13 @@
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Facade.Tests.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Facade.Tests.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\nunit.framework.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\nunit.framework.xml
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\obj\Debug\FunForce.LostCities.Facade.Tests.dll
+C:\Funforce2007\Source\FunForce.LostCities.Facade.Tests\obj\Debug\FunForce.LostCities.Facade.Tests.pdb

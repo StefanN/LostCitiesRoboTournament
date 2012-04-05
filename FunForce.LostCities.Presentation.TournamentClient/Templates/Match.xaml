@@ -1,0 +1,57 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:FunForce.LostCities.Presentation.TournamentClient"
+    >
+
+  <DataTemplate DataType="{x:Type local:WPFMatch}">
+    
+
+    <Border CornerRadius="10" BorderThickness="2"
+            Padding="10,10,10,10"
+            Margin="8">
+      <Border.BitmapEffect>
+        <DropShadowBitmapEffect ShadowDepth="10"  />
+      </Border.BitmapEffect>
+      <Border.Background>
+        
+         <RadialGradientBrush Center=".5,.5" RadiusX="3" RadiusY="2" GradientOrigin=".5,.5">
+          <GradientStop Color="Beige" Offset="0"/>
+          <GradientStop Color="Blue"  Offset="2"/>
+          <GradientStop Color="Blue"  Offset="3"/>
+        </RadialGradientBrush>
+       
+                             
+      </Border.Background>
+      <DockPanel LastChildFill="True">
+        <Grid DockPanel.Dock="Top">
+          <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+          </Grid.RowDefinitions>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="290"/>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition Width="290"/>
+          </Grid.ColumnDefinitions>
+
+          <TextBlock Foreground="DarkSlateGray" HorizontalAlignment="Right" FontSize="20" Grid.Row="0" Grid.Column="0" Text="{Binding NaamTeam1}"/>
+          <TextBlock Foreground="DarkSlateGray" HorizontalAlignment="Center" FontSize="20" Grid.Row="0" Grid.Column="1" Text="-"/>
+          <TextBlock Foreground="DarkSlateGray" HorizontalAlignment="Left" FontSize="20" Grid.Row="0" Grid.Column="3" Text="{Binding NaamTeam2}"/>
+          <TextBlock Foreground="DarkSlateGray" HorizontalAlignment="Right" FontSize="20" Grid.Row="1" Grid.Column="0" Text="{Binding TotaalScoreTeam1}"/>
+          <TextBlock Foreground="DarkSlateGray" HorizontalAlignment="Center" FontSize="20" Grid.Row="1" Grid.Column="1" Text="-"/>
+          <TextBlock Foreground="DarkSlateGray" HorizontalAlignment="Left" FontSize="20" Grid.Row="1" Grid.Column="2" Text="{Binding TotaalScoreTeam2}"/>
+        </Grid>
+        <ListBox HorizontalAlignment="Center" Background="{x:Null}" Grid.Row="2" Grid.ColumnSpan="3"
+                 ItemsSource="{Binding Resultaten}" BorderThickness="0">
+          <ListBox.Resources>
+            <ResourceDictionary Source="Result.xaml" />
+          </ListBox.Resources>
+        </ListBox>
+      </DockPanel>
+    </Border>
+    
+    
+    
+  </DataTemplate>
+</ResourceDictionary>

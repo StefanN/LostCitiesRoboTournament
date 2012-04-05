@@ -1,0 +1,64 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+  <ControlTemplate x:Key="GelProgressBar" TargetType="{x:Type ProgressBar}">
+    
+    
+    <ControlTemplate.Resources>
+      <Color x:Key="ControlBackgroundDark">#FF137BB5</Color>
+      <Color x:Key="ControlBackgroundLight">#FF6CBCEA</Color>
+      <Color x:Key="GelProgressBarToDoDark">DarkRed</Color>
+      <Color x:Key="GelProgressBarToDoLight">OrangeRed</Color>
+      <Color x:Key="GelProgressBarDoneDark">DarkGreen</Color>
+      <Color x:Key="GelProgressBarDoneLight">LightGreen</Color>
+      
+      <LinearGradientBrush x:Key="GelProgressBarToDoBrush" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Offset="0" Color="{StaticResource GelProgressBarToDoDark}"/>
+        <GradientStop Offset="1" Color="{StaticResource GelProgressBarToDoLight}"/>
+      </LinearGradientBrush>
+
+      <LinearGradientBrush x:Key="GelProgressBarDoneBrush" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Offset="0" Color="{StaticResource GelProgressBarDoneDark}"/>
+        <GradientStop Offset="1" Color="{StaticResource GelProgressBarDoneLight}"/>
+      </LinearGradientBrush>
+
+      <LinearGradientBrush x:Key="GelHighlight" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Offset="0" Color="#DDFFFFFF"/>
+        <GradientStop Offset="0.5" Color="#00FFFFFF"/>
+        <GradientStop Offset="0.85" Color="#00FFFFFF"/>
+        <GradientStop Offset="1" Color="#BBFFFFFF"/>
+      </LinearGradientBrush>
+    </ControlTemplate.Resources>
+
+    <Viewbox Stretch="Fill" Margin="4,4,4,4">
+
+      <Canvas Width="1000" Height="20">
+
+        <Rectangle RadiusX="3" RadiusY="15"
+                   Width="1000" Height="20"
+                   Fill="{StaticResource GelProgressBarToDoBrush}">
+          <Rectangle.BitmapEffect>
+            <OuterGlowBitmapEffect GlowColor="{StaticResource GelProgressBarToDoLight}" GlowSize="4" Opacity="0.5" />
+          </Rectangle.BitmapEffect>
+        </Rectangle>
+
+        <Rectangle RadiusX="3" RadiusY="15"
+                   Width="{TemplateBinding Value}" Height="20"
+                   Fill="{StaticResource GelProgressBarDoneBrush}">
+          <Rectangle.BitmapEffect>
+            <OuterGlowBitmapEffect GlowColor="{StaticResource GelProgressBarDoneLight}" GlowSize="4" Opacity="1" />
+          </Rectangle.BitmapEffect>
+        </Rectangle>
+
+        <Rectangle RadiusX="3" RadiusY="15"
+                   Width="998" Height="18"
+                   Canvas.Top="1" Canvas.Left="1"
+                   Fill="{StaticResource GelHighlight}"/>
+
+      </Canvas>
+
+    </Viewbox>
+
+  </ControlTemplate>
+
+</ResourceDictionary>

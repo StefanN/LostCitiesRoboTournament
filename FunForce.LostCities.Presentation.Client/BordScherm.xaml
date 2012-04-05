@@ -1,0 +1,232 @@
+﻿<Window x:Class="FunForce.LostCities.Presentation.Client.BordScherm"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Bord" 
+    Width="950" Height="950" Background="{StaticResource BordAchtergrondBrush}"
+    WindowStartupLocation="CenterScreen">
+
+    <Viewbox Margin="10">
+        <StackPanel>
+            <!--Tegenstander selectie-->
+            <Border Margin="10"  Padding="10" HorizontalAlignment="Stretch" VerticalAlignment="Center" 
+                    BorderBrush="{StaticResource TegenstanderSelectieRandBrush}" BorderThickness="1" CornerRadius="5">
+                <StackPanel Orientation="Horizontal">
+                    <Label>
+                        Tegenstander:
+                    </Label>
+                    <ComboBox IsEditable="True" IsReadOnly="True" Width="400" x:Name="TegenstanderComboBox">
+                        <ComboBox.Text>
+                            Selecteer tegenstander bot...
+                        </ComboBox.Text>
+                    </ComboBox>
+                    <Button Width="100" Margin="10,0,0,0" Click="StartSpel_Click"
+                            Style="{StaticResource ButtonStyle}">
+                        Start nieuw spel
+                    </Button>
+                </StackPanel>
+            </Border>
+
+            
+            <StackPanel Orientation="Horizontal">
+                <!-- Lost Cities tekst-->
+                <Border  Margin="10,0,0,0"  Padding="10" HorizontalAlignment="Stretch" 
+                         VerticalAlignment="Stretch" BorderBrush="{StaticResource TitelRandBrush}" 
+                         BorderThickness="1" CornerRadius="5">
+
+                    <Label Style="{StaticResource TitelFontStyle}">
+                        <Label.LayoutTransform>
+                            <RotateTransform Angle="-90"/>
+                        </Label.LayoutTransform>
+                        Lost Cities
+                    </Label>
+
+                </Border>
+                <StackPanel>
+                    <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                            Background="{StaticResource SpelerAchtergrondBrush}"  CornerRadius="5">
+                        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="665" Height="350" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="10"/>
+                                <ColumnDefinition Width="300"/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="70" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="10" />
+                                <RowDefinition Height="60"/>
+                                <RowDefinition Height="280"/>
+                            </Grid.RowDefinitions>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="1" 
+                                              Content="{Binding Speler1}"
+                                              ContentTemplate="{StaticResource StatusView}"/>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="5"
+                                               Content="{Binding Speler1.Hand}"
+                                              ContentTemplate="{StaticResource HandView}">
+                                <ContentPresenter.LayoutTransform>
+                                    <RotateTransform Angle="180"/>
+                                </ContentPresenter.LayoutTransform>
+                            </ContentPresenter>
+
+                            <ContentPresenter Grid.Row="2" Grid.Column="1" 
+                                              Content="{Binding Speler1.Beurt}"
+                                              ContentTemplate="{StaticResource LaatsteBeurtView}">
+                             </ContentPresenter>
+                            
+                            <ContentPresenter Grid.Row="2" Grid.Column="2" 
+                                              Content="{Binding Speler1.ExpeditieBlauw}"
+                                              ContentTemplate="{StaticResource ExpeditieView}">
+                                <ContentPresenter.LayoutTransform>
+                                    <RotateTransform Angle="180"/>
+                                </ContentPresenter.LayoutTransform>
+                            </ContentPresenter>
+                            
+                            <ContentPresenter Grid.Row="2" Grid.Column="3" 
+                                              Content="{Binding Speler1.ExpeditieRood}"
+                                              ContentTemplate="{StaticResource ExpeditieView}">
+                                <ContentPresenter.LayoutTransform>
+                                    <RotateTransform Angle="180"/>
+                                </ContentPresenter.LayoutTransform>
+                            </ContentPresenter>
+  
+                            <ContentPresenter Grid.Row="2" Grid.Column="4" 
+                                              Content="{Binding Speler1.ExpeditieWit}"
+                                              ContentTemplate="{StaticResource ExpeditieView}">
+                                <ContentPresenter.LayoutTransform>
+                                    <RotateTransform Angle="180"/>
+                                </ContentPresenter.LayoutTransform>
+                            </ContentPresenter>
+                            
+                            <ContentPresenter Grid.Row="2" Grid.Column="5" 
+                                              Content="{Binding Speler1.ExpeditieGroen}"
+                                              ContentTemplate="{StaticResource ExpeditieView}">
+                                <ContentPresenter.LayoutTransform>
+                                    <RotateTransform Angle="180"/>
+                                </ContentPresenter.LayoutTransform>
+                            </ContentPresenter>
+                            
+                            <ContentPresenter Grid.Row="2" Grid.Column="6" 
+                                              Content="{Binding Speler1.ExpeditieGeel}"
+                                              ContentTemplate="{StaticResource ExpeditieView}">
+                                <ContentPresenter.LayoutTransform>
+                                    <RotateTransform Angle="180"/>
+                                </ContentPresenter.LayoutTransform>
+                            </ContentPresenter>
+                        </Grid>
+                    </Border>
+
+                    <Border Margin="10" Background="{StaticResource SpelKaartenAchtergrondBrush}"  
+                            BorderThickness="0" CornerRadius="5">
+                        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" 
+                              Width="665" Height="110" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="10"/>
+                                <ColumnDefinition Width="210"/>
+                                <ColumnDefinition Width="90"/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="70" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="10"/>
+                                <RowDefinition Height="90"/>
+                            </Grid.RowDefinitions>
+                            
+                            <Button Width="200" Height="30" Grid.Column="1" Grid.Row="1"  
+                                    x:Name="SimuleerBeurtButton" Click="SimuleerBeurt_Click"
+                                    Style="{StaticResource ButtonStyle}">
+                            </Button>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="2" 
+                                              Content="{Binding TrekStapel}"
+                                              ContentTemplate="{StaticResource TrekStapelView}"/>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="3" 
+                                              Content="{Binding AflegstapelBlauw}"
+                                              ContentTemplate="{StaticResource AflegStapelView}"/>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="4" 
+                                              Content="{Binding AflegstapelRood}"
+                                              ContentTemplate="{StaticResource AflegStapelView}"/>
+                           
+                            <ContentPresenter Grid.Row="1" Grid.Column="5" 
+                                              Content="{Binding AflegstapelWit}"
+                                              ContentTemplate="{StaticResource AflegStapelView}"/>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="6" 
+                                              Content="{Binding AflegstapelGroen}"
+                                              ContentTemplate="{StaticResource AflegStapelView}"/>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="7" 
+                                              Content="{Binding AflegstapelGeel}"
+                                              ContentTemplate="{StaticResource AflegStapelView}"/>
+                        </Grid>
+                    </Border>
+
+
+                    <Border HorizontalAlignment="Center" VerticalAlignment="Center" 
+                            Background="{StaticResource SpelerAchtergrondBrush}" 
+                            BorderBrush="DarkRed" BorderThickness="0" CornerRadius="5">
+                        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="665" Height="350" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="10"/>
+                                <ColumnDefinition Width="300"/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="70" />
+                                <ColumnDefinition Width="70" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="280"/>
+                                <RowDefinition Height="60"/>
+                                <RowDefinition Height="10"/>
+                            </Grid.RowDefinitions>
+                            
+                            <ContentPresenter Grid.Row="0" Grid.Column="1" 
+                                              Content="{Binding Speler2.Beurt}"
+                                              ContentTemplate="{StaticResource LaatsteBeurtView}">
+                            </ContentPresenter>
+
+                            <ContentPresenter Grid.Row="0" Grid.Column="2" 
+                                              Content="{Binding Speler2.ExpeditieBlauw}"
+                                              ContentTemplate="{StaticResource ExpeditieView}"/>
+                            
+                            <ContentPresenter Grid.Row="0" Grid.Column="3" 
+                                              Content="{Binding Speler2.ExpeditieRood}"
+                                              ContentTemplate="{StaticResource ExpeditieView}"/>
+                            
+                            <ContentPresenter Grid.Row="0" Grid.Column="4" 
+                                              Content="{Binding Speler2.ExpeditieWit}"
+                                              ContentTemplate="{StaticResource ExpeditieView}"/>
+                            
+                            <ContentPresenter Grid.Row="0" Grid.Column="5" 
+                                              Content="{Binding Speler2.ExpeditieGroen}"
+                                              ContentTemplate="{StaticResource ExpeditieView}"/>
+                            
+                            <ContentPresenter Grid.Row="0" Grid.Column="6" 
+                                              Content="{Binding Speler2.ExpeditieGeel}"
+                                              ContentTemplate="{StaticResource ExpeditieView}"/>
+
+                            <ContentPresenter Grid.Row="1" Grid.Column="1" 
+                                              Content="{Binding Speler2}"
+                                              ContentTemplate="{StaticResource StatusView}"/>
+                            
+                            <ContentPresenter Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="5"
+                                              Content="{Binding Speler2.Hand}"
+                                              ContentTemplate="{StaticResource HandView}"/>
+                        </Grid>
+                    </Border>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Viewbox>
+
+
+</Window>

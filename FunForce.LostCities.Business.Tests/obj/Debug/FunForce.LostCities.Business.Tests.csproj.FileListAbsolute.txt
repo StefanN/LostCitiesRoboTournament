@@ -1,0 +1,53 @@
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.xml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.xml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.Tests.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.dll
+C:\Projects\FunForce-LostCities\Source\FunForce.LostCities.Business.Tests\obj\Debug\FunForce.LostCities.Business.Tests.pdb

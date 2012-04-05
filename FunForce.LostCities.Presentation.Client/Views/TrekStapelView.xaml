@@ -1,0 +1,39 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+    xmlns:local="clr-namespace:FunForce.LostCities.Presentation.Client">
+
+    <DataTemplate x:Key="TrekStapelView" DataType="{x:Type local:TrekStapelViewModel}">
+
+        <Border Width="60" Height="90"
+                BorderThickness="1"
+                BorderBrush="{StaticResource TrekStapelRandBrush}"
+                Background="{StaticResource TrekStapelAchtergrondBrush}"
+                CornerRadius="5">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock HorizontalAlignment="Center" Padding="10" 
+                           Grid.Row="0" Grid.Column="0" 
+                           Style="{StaticResource TrekStapelFontStyle}"
+                           Text="{Binding AantalKaarten}"/>
+                    
+                <TextBlock HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0">
+                    <ContentPresenter  
+                              Content="{Binding BovensteKaart}"
+                              ContentTemplate="{StaticResource KaartView}"/> 
+                </TextBlock>
+                </Grid>
+
+        </Border>
+    </DataTemplate>
+
+
+
+</ResourceDictionary>

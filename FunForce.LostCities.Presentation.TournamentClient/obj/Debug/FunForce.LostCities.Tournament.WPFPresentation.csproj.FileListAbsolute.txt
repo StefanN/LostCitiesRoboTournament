@@ -1,0 +1,110 @@
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.dll
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.pdb
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\GelProgressBar.baml
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.baml
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.baml
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.g.cs
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.g.cs
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.cache
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.lref
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Match.baml
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Result.baml
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\StandItem.baml
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.g.resources
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\WPFPresentation.Properties.Resources.resources
+C:\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.csproj.GenerateResource.Cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.dll
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\GelProgressBar.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.g.cs
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.g.cs
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.lref
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Match.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Result.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\StandItem.baml
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.g.resources
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\WPFPresentation.Properties.Resources.resources
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.csproj.GenerateResource.Cache
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\AtosOrigin\FunForce\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.dll
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.pdb
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\GelProgressBar.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.cache
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.lref
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Match.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Result.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\StandItem.baml
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.g.resources
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\WPFPresentation.Properties.Resources.resources
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\ReferenceMaterial\01 Atos FunForce\WPF_Bord_Backup_20081008\WPF_Bord\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.dll
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Business.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Facade.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\bin\Debug\FunForce.LostCities.Tournament.Business.pdb
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\GelProgressBar.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Tournament.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\App.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.cache
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation_MarkupCompile.lref
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Match.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\Result.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\Templates\StandItem.baml
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.g.resources
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\WPFPresentation.Properties.Resources.resources
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.exe
+C:\Projects\FunForce-LostCities\Funforce\Source\FunForce.LostCities.Tournament.WPFPresentation\obj\Debug\FunForce.LostCities.Tournament.WPFPresentation.pdb

@@ -1,0 +1,51 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:FunForce.LostCities.Presentation.Client">
+
+    <DataTemplate x:Key="ExpeditieView" DataType="{x:Type local:ExpeditieViewModel}">
+
+        <Border Width="60" Height="260"
+                BorderThickness="1"
+                BorderBrush="{Binding KleurDonker}"
+                CornerRadius="5">
+            <Border.Background>
+                <SolidColorBrush Color="{Binding KleurDonker}" Opacity=".25" />
+            </Border.Background>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="230"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+
+
+                <ListBox ItemsSource="{Binding ExpeditieStapel}"
+                     Background="Transparent"
+                     BorderThickness="0"
+                     ItemTemplate="{StaticResource KaartView}"
+                     HorizontalAlignment="Center"
+                     Padding="10"
+                     ScrollViewer.VerticalScrollBarVisibility="Disabled" 
+                     Grid.Column="0" Grid.Row="0">
+
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel  Orientation="Vertical"  >
+                            </StackPanel>
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                </ListBox>
+
+                <TextBlock HorizontalAlignment="Center" Padding="10" 
+                           Grid.Row="1" Grid.Column="0" 
+                           Style="{StaticResource ExpeditieFontStyle}"
+                           Text="{Binding Score}"/>
+                </Grid>
+        </Border>
+    </DataTemplate>
+
+
+</ResourceDictionary>

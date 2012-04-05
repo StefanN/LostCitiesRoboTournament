@@ -1,0 +1,9 @@
+C:\AtosOrigin\BUILDSERVER\FunForce.LostCities\Source\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Facade.Interface.dll
+C:\AtosOrigin\BUILDSERVER\FunForce.LostCities\Source\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Facade.Interface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FunForce.LostCities.Facade.Interface.dll
+obj\Debug\FunForce.LostCities.Facade.Interface.pdb
+bin\Debug\FunForce.LostCities.Facade.Interface.dll
+bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+C:\Private\FunForce\Sources Avond 6\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Facade.Interface.dll
+C:\Private\FunForce\Sources Avond 6\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Facade.Interface.pdb

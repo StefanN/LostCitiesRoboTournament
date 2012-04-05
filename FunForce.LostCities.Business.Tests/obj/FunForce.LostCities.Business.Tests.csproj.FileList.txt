@@ -1,0 +1,15 @@
+C:\AtosOrigin\BUILDSERVER\FunForce.LostCities\Source\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Business.Tests.dll
+C:\AtosOrigin\BUILDSERVER\FunForce.LostCities\Source\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Business.Tests.pdb
+C:\Private\FunForce\Sources Avond 6\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Business.Tests.dll
+C:\Private\FunForce\Sources Avond 6\Nightly\FunForce.LostCities\Build\FunForce.LostCities.Business.Tests.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FunForce.LostCities.Business.Tests.dll
+obj\Debug\FunForce.LostCities.Business.Tests.pdb
+bin\Debug\FunForce.LostCities.Business.Tests.dll
+bin\Debug\FunForce.LostCities.Business.Tests.pdb
+bin\Debug\FunForce.LostCities.Business.dll
+bin\Debug\FunForce.LostCities.Facade.Interface.dll
+bin\Debug\FunForce.LostCities.Business.pdb
+bin\Debug\FunForce.LostCities.Facade.Interface.pdb
+bin\Debug\nunit.framework.dll
+bin\Debug\nunit.framework.xml

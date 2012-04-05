@@ -1,0 +1,48 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:FunForce.LostCities.Presentation.Client">
+
+    <DataTemplate x:Key="KaartView" DataType="{x:Type local:KaartViewModel}">
+        <Border BorderThickness="2"
+                BorderBrush="{Binding KleurDonker}"
+                CornerRadius="2"
+                Height="50" Width="33">
+            
+            <Border.RenderTransform>
+                <TranslateTransform Y="{Binding Offset}"/>
+            </Border.RenderTransform>
+            
+            <Border.BitmapEffect>
+                <DropShadowBitmapEffect ShadowDepth="2"/>
+            </Border.BitmapEffect>
+            
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Offset="0" Color="{Binding KleurLicht}"/>
+                    <GradientStop Offset="1" Color="{Binding KleurDonker}"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            
+            <DockPanel>
+                <TextBlock Style="{StaticResource KaartFontStyle}" 
+                           DockPanel.Dock="Top" 
+                           Text="{Binding Waarde}"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Top"
+                           Margin="2,2,2,2">
+                </TextBlock>
+                <TextBlock Style="{StaticResource KaartFontStyle}" 
+                           DockPanel.Dock="Bottom" 
+                           Text="{Binding Waarde}"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Bottom"
+                           Margin="2,2,2,2">
+                    <TextBlock.LayoutTransform>
+                        <RotateTransform  Angle="180"/>
+                    </TextBlock.LayoutTransform>
+                </TextBlock>
+            </DockPanel>
+        </Border>
+    </DataTemplate>
+        
+</ResourceDictionary>
